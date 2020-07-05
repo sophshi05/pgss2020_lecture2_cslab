@@ -6,4 +6,4 @@ This repository contains my scripts and notes from L1 and L2 in CMU's PGSS 2020 
 - R scripts include: 
 
 - Python scripts include:
-/MyNotebook/myFirstScript.ipynb
+  * /MyNotebook/myFirstScript.ipynb
